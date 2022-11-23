@@ -1,0 +1,60 @@
+
+body{
+    padding: 50px 100px;
+}
+
+h1{
+    text-align: center;
+    color: aquamarine;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-style: italic;
+}
+#container{
+    text-align: center;
+    background-color: rgb(228, 235, 238);
+    padding: 70px;
+    height: 400px;
+    box-sizing: border-box;
+    border: 3px solid red;
+    border-radius: 70px;
+}
+.input-div{
+display: inline-block;
+
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+input{
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: lightgreen;
+    cursor: pointer;
+}
+label{
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(25, 27, 28);
+}
+label:hover{
+    color: brown;
+}
+
+input:hover{
+    color: crimson;
+}
+h1:hover{
+    color: crimson;
+}
+
+
+
+
+
+
